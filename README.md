@@ -10,7 +10,7 @@ The purpose of the analysis is to : <br>
 •	Explain how to use AWS Simple Storage Service (S3) and relational databases for basic cloud storage.
 •	Complete an analysis of an Amazon customer review.
 ### Resources:
-- Dataset used for this analysis: <"https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Watches_v1_00.tsv.gz">
+- Dataset used for this analysis: [Click Here](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Watches_v1_00.tsv.gz)
 
 
 ¬
